@@ -1,0 +1,6 @@
+This will read a new line
+thiswillreadjustatoken 12345
+justcheckifnotreadingnewlinecharacter
+123456.123987
+Check If the new line doesn't have the new line character
+thiswillreadanewword 123456789123456
