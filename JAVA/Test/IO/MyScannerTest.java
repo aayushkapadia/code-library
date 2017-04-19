@@ -10,6 +10,7 @@ public class MyScannerTest
 		System.out.println(sc.nextLine());
 		System.out.println(sc.next());
 		System.out.println(sc.nextInt());
+		System.out.println(sc.next());
 		System.out.println(sc.nextDouble());
 		System.out.println(sc.nextLine());
 		System.out.println(sc.next());

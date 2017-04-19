@@ -10,6 +10,7 @@ int main()
 		cout<<sc.nextLine()<<endl;
 		cout<<sc.next()<<endl;
 		cout<<sc.nextInt()<<endl;
+		cout<<sc.next()<<endl;
 		cout<<sc.nextDouble()<<endl;
 		cout<<sc.nextLine()<<endl;
 		cout<<sc.next()<<endl;
